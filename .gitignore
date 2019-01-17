@@ -259,3 +259,9 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/Detectify-screenshot-service/previews/p__discord.png
+/Detectify-screenshot-service/previews/p__google.png
+/Detectify-screenshot-service/previews/p__youtube.png
+/Detectify-screenshot-service/thumbs/discord_thumb.png
+/Detectify-screenshot-service/thumbs/google_thumb.png
+/Detectify-screenshot-service/thumbs/youtube_thumb.png
